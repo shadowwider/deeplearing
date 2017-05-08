@@ -89,4 +89,6 @@ ENV/
 .ropeproject
 .floydexpt
 .floydignore
+checkpoints
+preprocess.p
 
